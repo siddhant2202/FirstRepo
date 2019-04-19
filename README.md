@@ -58,12 +58,8 @@ Phase Three
   \* literal asterisks\*
   
 
-
 `<script> alert() </script`
 
-## table
-    
-    
  No | Name | Days 
  --- | --- | ---
  1 | AVENGERS:END GAME| 3
