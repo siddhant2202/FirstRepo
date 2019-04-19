@@ -59,16 +59,18 @@ Phase Three
   
 
 
-<script> alert() </script
+`<script> alert() </script`
 
 ## table
-
------------------------------------------------------
-   NO | NAME                | DAYS |
-------|---------------------|------|----------------
-    1 | AVENGERS:END GAME   | 7    |
     
-  ## emoji
+    
+ No | Name | Days 
+ --- | --- | ---
+ 1 | AVENGERS:END GAME| 3
+ 2 | Marvel | 4
+ 
+  
+## emoji
   
   :rocket:
   
